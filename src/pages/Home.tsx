@@ -17,6 +17,11 @@ const Home = () => {
                                 className="mx-auto"
                             />
                         </div>
+                        <div>
+                            <p className="mt-4 text-center text-gray-600">
+                                <a href="https://chrome.google.com/webstore/detail/smart-meeting-scheduler/icaojehhbdenebdcahljjhnohnjmbpfa" className="text-blue-600 hover:text-blue-800" target="blank">Download from Chrome Web Store</a>
+                            </p>
+                        </div>
                         <div className="text-center mt-3 text-lg text-gray-600">
                             A powerful tool designed to simplify and streamline
                             the process of scheduling meetings using Google
