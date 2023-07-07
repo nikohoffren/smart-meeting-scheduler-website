@@ -1,3 +1,4 @@
+import React from "react";
 import "../output.css";
 
 const PrivacyPolicy = () => {
@@ -102,6 +103,84 @@ const PrivacyPolicy = () => {
                                 Privacy Policy. Any changes will be posted on
                                 this page. We encourage you to review our
                                 Privacy Policy to stay informed.
+                            </p>
+                        </div>
+
+                        <div className="mb-4">
+                            <div className="font-semibold text-lg text-gray-700">
+                                9. Data Security
+                            </div>
+                            <p className="text-gray-600">
+                                We are committed to protecting the security of
+                                your data. We implement appropriate technical
+                                and organizational measures to safeguard your
+                                data and prevent unauthorized access or
+                                disclosure.
+                            </p>
+                        </div>
+
+                        <div className="mb-4">
+                            <div className="font-semibold text-lg text-gray-700">
+                                10. Data Retention
+                            </div>
+                            <p className="text-gray-600">
+                                We retain your calendar data only for as long as
+                                necessary to provide the services outlined in
+                                this Privacy Policy. Once the data is no longer
+                                required, we securely delete or anonymize it.
+                            </p>
+                        </div>
+
+                        <div className="mb-4">
+                            <div className="font-semibold text-lg text-gray-700">
+                                11. Third-Party Services
+                            </div>
+                            <p className="text-gray-600">
+                                Smart Meeting Scheduler may utilize third-party
+                                services or APIs (e.g., Google Calendar API) to
+                                provide its functionalities. Such services may
+                                have theirown privacy policies and terms of
+                                service, and we encourage you to review them. We
+                                do not share your data with any third parties
+                                other than those necessary to provide the
+                                services of Smart Meeting Scheduler.
+                            </p>
+                        </div>
+
+                        <div className="mb-4">
+                            <div className="font-semibold text-lg text-gray-700">
+                                12. User Consent
+                            </div>
+                            <p className="text-gray-600">
+                                By using the Smart Meeting Scheduler extension,
+                                you consent to the collection, use, and
+                                processing of your data as outlined in this
+                                Privacy Policy.
+                            </p>
+                        </div>
+
+                        <div className="mb-4">
+                            <div className="font-semibold text-lg text-gray-700">
+                                13. Contact Information
+                            </div>
+                            <p className="text-gray-600">
+                                If you have any questions or concerns regarding
+                                this Privacy Policy or the handling of your
+                                data, please contact us at niko.hoffren@gmail.com.
+                            </p>
+                        </div>
+
+                        <div className="mb-4">
+                            <div className="font-semibold text-lg text-gray-700">
+                                14. Updates to the Privacy Policy
+                            </div>
+                            <p className="text-gray-600">
+                                We reserve the right to update or modify this
+                                Privacy Policy at any time. Any changes will be
+                                effective immediately upon posting the revised
+                                policy on our website. We encourage you to
+                                review this Privacy Policy periodically for any
+                                updates.
                             </p>
                         </div>
                     </div>
