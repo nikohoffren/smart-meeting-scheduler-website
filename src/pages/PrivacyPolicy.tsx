@@ -175,7 +175,7 @@ const PrivacyPolicy = () => {
                             </div>
                             <p className="text-gray-600">
                                 We reserve the right to update or modify this
-                                Privacy Policy at any time. Any changes will be
+                                Privacy Policy at any time.  Any changes will be
                                 effective immediately upon posting the revised
                                 policy on our website. We encourage you to
                                 review this Privacy Policy periodically for any
